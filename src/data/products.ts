@@ -18,7 +18,7 @@ export const products: Product[] = [
     price: 33990000,
     originalPrice: 36990000,
     images: [
-      'https://images.unsplash.com/photo-1695048133142-1a20484bce71?w=600',
+      'https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=600',
       'https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=600',
     ],
     category: 'Điện thoại',
